@@ -7,6 +7,10 @@
         <h4>Open Source Contributions</h4>
         <p><a href="https://github.com/jluttine/junction-tree">junction-tree</a> - Python implementation of the junction tree algorithm for (discrete) factor graphs</p>
     </div>
+        <div style="display: inline-block;">
+        <h4>Authored Courses</h4>
+        <p><a href="https://www.datacamp.com/courses/creating-postgresql-databases">Creating PostgreSQL Databases</a> - A DataCamp course covering the structure of PostgreSQL databases,  data types, normalization of databases, and database access control.</p>
+    </div>
 </div>
 
 
