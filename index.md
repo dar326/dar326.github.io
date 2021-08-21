@@ -9,7 +9,8 @@
     </div>
         <div style="display: inline-block;">
         <h4>Authored Courses</h4>
-        <p><a href="https://www.datacamp.com/courses/creating-postgresql-databases">Creating PostgreSQL Databases</a> - A DataCamp course covering the structure of PostgreSQL databases,  data types, normalization of databases, and database access control.</p>
+        <p><a href="https://www.datacamp.com/courses/creating-postgresql-databases">Creating PostgreSQL Databases</a> - A DataCamp course covering the structure of PostgreSQL databases, data types, normalization of databases, and database access control.</p>
+        <p><a href="https://www.datacamp.com/courses/cleaning-data-in-postgresql-databases">Cleaning Data in PostgreSQL Databases</a> - A DataCamp course covering data cleaning basics (pattern and string matching); working with missing, duplicate, and invalid data; converting between data types, and transforming the structure of data.</p>
     </div>
 </div>
 
